@@ -22,6 +22,8 @@ This project is a voice-driven AI assistant designed to help users manage their 
 - pydub
 - subprocess & platform modules
 
+# Checkout its output here: "http://127.0.0.1:7860/"
+
 ## 🚀 How to Run
 
 1. Clone the repository:
